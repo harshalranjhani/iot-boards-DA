@@ -9,7 +9,7 @@ This repository contains code examples for various IoT projects using different 
 
 DA1: https://files.edgestore.dev/gre1kolpt9w3vnwd/publicFiles/_public/cecd7ec8-36d9-43b7-b653-e01f67603af3.pdf
 
-DA2: https://files.edgestore.dev/gre1kolpt9w3vnwd/publicFiles/_public/3e6da05c-8d32-43b0-a8f7-aad055b3ca2d.pdf
+DA2: https://files.edgestore.dev/gre1kolpt9w3vnwd/publicFiles/_public/d93366c2-c267-4445-8a74-9caaf038b0fe.pdf
 
 ## 🚀 Features
 
