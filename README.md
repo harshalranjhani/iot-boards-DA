@@ -5,6 +5,12 @@
 ## Description 📜
 This repository contains code examples for various IoT projects using different boards like Arduino, ESP32, and Raspberry Pi. These projects demonstrate practical applications of IoT technology in everyday scenarios, from home automation to security systems. Each project includes complete code implementation with detailed comments and necessary hardware configurations.
 
+## Presentation Links
+
+DA1: https://files.edgestore.dev/gre1kolpt9w3vnwd/publicFiles/_public/cecd7ec8-36d9-43b7-b653-e01f67603af3.pdf
+
+DA2: https://files.edgestore.dev/gre1kolpt9w3vnwd/publicFiles/_public/3e6da05c-8d32-43b0-a8f7-aad055b3ca2d.pdf
+
 ## 🚀 Features
 
 ### Auto Night Lamp using Tinkercad
